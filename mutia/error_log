@@ -1,0 +1,434 @@
+[23-Nov-2023 05:07:12 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/prokommy/public_html/mutia/view_data.php on line 50
+[23-Nov-2023 05:14:00 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/prokommy/public_html/mutia/view_data.php on line 49
+[23-Nov-2023 05:17:40 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/prokommy/public_html/mutia/view_data.php on line 49
+[23-Nov-2023 09:34:57 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/kalori_buah.php on line 74
+[23-Nov-2023 09:34:57 UTC] PHP Warning:  mysqli_errno() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/kalori_buah.php on line 77
+[23-Nov-2023 09:34:57 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/kalori_buah.php on line 77
+[23-Nov-2023 09:36:01 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/kalori_buah.php on line 74
+[23-Nov-2023 09:36:01 UTC] PHP Warning:  mysqli_errno() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/kalori_buah.php on line 77
+[23-Nov-2023 09:36:01 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/kalori_buah.php on line 77
+[23-Nov-2023 09:50:48 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/kalori_buah.php on line 74
+[23-Nov-2023 09:50:48 UTC] PHP Warning:  mysqli_errno() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/kalori_buah.php on line 77
+[23-Nov-2023 09:50:48 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/kalori_buah.php on line 77
+[23-Nov-2023 09:52:42 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/kalori_buah.php on line 74
+[23-Nov-2023 09:52:42 UTC] PHP Warning:  mysqli_errno() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/kalori_buah.php on line 77
+[23-Nov-2023 09:52:42 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/kalori_buah.php on line 77
+[23-Nov-2023 09:56:00 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/kalori_buah.php on line 74
+[23-Nov-2023 09:56:00 UTC] PHP Warning:  mysqli_errno() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/kalori_buah.php on line 77
+[23-Nov-2023 09:56:00 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/kalori_buah.php on line 77
+[23-Nov-2023 10:14:56 UTC] PHP Warning:  mysqli_errno() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/simpan_data.php on line 10
+[23-Nov-2023 10:14:56 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/simpan_data.php on line 10
+[23-Nov-2023 10:19:38 UTC] PHP Warning:  mysqli_errno() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/simpan_data.php on line 10
+[23-Nov-2023 10:19:38 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/simpan_data.php on line 10
+[23-Nov-2023 10:19:41 UTC] PHP Warning:  mysqli_errno() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/simpan_data.php on line 10
+[23-Nov-2023 10:19:41 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/simpan_data.php on line 10
+[23-Nov-2023 10:19:58 UTC] PHP Warning:  mysqli_errno() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/simpan_data.php on line 10
+[23-Nov-2023 10:19:58 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/simpan_data.php on line 10
+[23-Nov-2023 10:21:27 UTC] PHP Warning:  mysqli_errno() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/simpan_data.php on line 10
+[23-Nov-2023 10:21:27 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/simpan_data.php on line 10
+[23-Nov-2023 10:23:57 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/kalori_buah.php on line 74
+[23-Nov-2023 10:23:57 UTC] PHP Warning:  mysqli_errno() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/kalori_buah.php on line 77
+[23-Nov-2023 10:23:57 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/kalori_buah.php on line 77
+[23-Nov-2023 10:24:07 UTC] PHP Warning:  mysqli_errno() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/simpan_data.php on line 10
+[23-Nov-2023 10:24:07 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/simpan_data.php on line 10
+[23-Nov-2023 10:29:00 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/simpan_data.php on line 33
+[23-Nov-2023 10:29:00 UTC] PHP Warning:  mysqli_errno() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/simpan_data.php on line 36
+[23-Nov-2023 10:29:00 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/simpan_data.php on line 36
+[23-Nov-2023 10:29:03 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/simpan_data.php on line 33
+[23-Nov-2023 10:29:03 UTC] PHP Warning:  mysqli_errno() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/simpan_data.php on line 36
+[23-Nov-2023 10:29:03 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/simpan_data.php on line 36
+[23-Nov-2023 10:29:40 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/simpan_data.php on line 33
+[23-Nov-2023 10:29:40 UTC] PHP Warning:  mysqli_errno() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/simpan_data.php on line 36
+[23-Nov-2023 10:29:41 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/simpan_data.php on line 36
+[23-Nov-2023 10:29:42 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/simpan_data.php on line 33
+[23-Nov-2023 10:29:42 UTC] PHP Warning:  mysqli_errno() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/simpan_data.php on line 36
+[23-Nov-2023 10:29:42 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/simpan_data.php on line 36
+[23-Nov-2023 13:20:04 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/kalori_buah.php on line 74
+[23-Nov-2023 13:20:04 UTC] PHP Warning:  mysqli_errno() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/kalori_buah.php on line 77
+[23-Nov-2023 13:20:04 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/kalori_buah.php on line 77
+[24-Nov-2023 02:35:24 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/simpan_data.php on line 33
+[24-Nov-2023 02:35:24 UTC] PHP Warning:  mysqli_errno() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/simpan_data.php on line 36
+[24-Nov-2023 02:35:24 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/simpan_data.php on line 36
+[24-Nov-2023 02:35:36 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/kalori_buah.php on line 74
+[24-Nov-2023 02:35:36 UTC] PHP Warning:  mysqli_errno() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/kalori_buah.php on line 77
+[24-Nov-2023 02:35:36 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/kalori_buah.php on line 77
+[24-Nov-2023 02:36:37 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/kalori_buah.php on line 74
+[24-Nov-2023 02:36:37 UTC] PHP Warning:  mysqli_errno() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/kalori_buah.php on line 77
+[24-Nov-2023 02:36:37 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/kalori_buah.php on line 77
+[24-Nov-2023 03:40:42 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/kalori_buah.php on line 74
+[24-Nov-2023 03:40:42 UTC] PHP Warning:  mysqli_errno() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/kalori_buah.php on line 77
+[24-Nov-2023 03:40:42 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/kalori_buah.php on line 77
+[24-Nov-2023 06:43:42 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/simpan_data.php on line 33
+[24-Nov-2023 06:43:42 UTC] PHP Warning:  mysqli_errno() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/simpan_data.php on line 36
+[24-Nov-2023 06:43:42 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/simpan_data.php on line 36
+[25-Nov-2023 13:14:59 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/prokommy/public_html/mutia/view_data.php on line 49
+[26-Nov-2023 06:25:24 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/prokommy/public_html/mutia/view_data.php on line 49
+[26-Nov-2023 15:06:19 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/prokommy/public_html/mutia/view_data.php on line 49
+[29-Nov-2023 01:53:15 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/kalori_buah.php on line 74
+[29-Nov-2023 01:53:15 UTC] PHP Warning:  mysqli_errno() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/kalori_buah.php on line 77
+[29-Nov-2023 01:53:15 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/kalori_buah.php on line 77
+[29-Nov-2023 01:57:06 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/kalori_buah.php on line 74
+[29-Nov-2023 01:57:06 UTC] PHP Warning:  mysqli_errno() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/kalori_buah.php on line 77
+[29-Nov-2023 01:57:06 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/kalori_buah.php on line 77
+[29-Nov-2023 01:58:43 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/kalori_buah.php on line 74
+[29-Nov-2023 01:58:43 UTC] PHP Warning:  mysqli_errno() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/kalori_buah.php on line 77
+[29-Nov-2023 01:58:43 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/kalori_buah.php on line 77
+[29-Nov-2023 02:06:16 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/kalori_buah.php on line 74
+[29-Nov-2023 02:06:16 UTC] PHP Warning:  mysqli_errno() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/kalori_buah.php on line 77
+[29-Nov-2023 02:06:16 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/kalori_buah.php on line 77
+[29-Nov-2023 05:37:47 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/kalori_buah.php on line 74
+[29-Nov-2023 05:37:47 UTC] PHP Warning:  mysqli_errno() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/kalori_buah.php on line 77
+[29-Nov-2023 05:37:47 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/kalori_buah.php on line 77
+[29-Nov-2023 05:45:15 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/simpan_data.php on line 33
+[29-Nov-2023 05:45:15 UTC] PHP Warning:  mysqli_errno() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/simpan_data.php on line 36
+[29-Nov-2023 05:45:15 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/simpan_data.php on line 36
+[29-Nov-2023 05:56:13 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/kalori_buah.php on line 74
+[29-Nov-2023 05:56:13 UTC] PHP Warning:  mysqli_errno() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/kalori_buah.php on line 77
+[29-Nov-2023 05:56:13 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/kalori_buah.php on line 77
+[29-Nov-2023 12:26:17 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/kalori_buah.php on line 74
+[29-Nov-2023 12:26:17 UTC] PHP Warning:  mysqli_errno() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/kalori_buah.php on line 77
+[29-Nov-2023 12:26:17 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/kalori_buah.php on line 77
+[29-Nov-2023 12:26:19 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/kalori_buah.php on line 74
+[29-Nov-2023 12:26:19 UTC] PHP Warning:  mysqli_errno() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/kalori_buah.php on line 77
+[29-Nov-2023 12:26:19 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/kalori_buah.php on line 77
+[29-Nov-2023 12:36:47 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/kalori_buah.php on line 74
+[29-Nov-2023 12:36:47 UTC] PHP Warning:  mysqli_errno() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/kalori_buah.php on line 77
+[29-Nov-2023 12:36:47 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/kalori_buah.php on line 77
+[29-Nov-2023 13:51:50 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/prokommy/public_html/mutia/view_data.php on line 49
+[29-Nov-2023 13:52:52 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/simpan_data.php on line 33
+[29-Nov-2023 13:52:52 UTC] PHP Warning:  mysqli_errno() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/simpan_data.php on line 36
+[29-Nov-2023 13:52:52 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/simpan_data.php on line 36
+[29-Nov-2023 13:53:29 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/simpan_data.php on line 33
+[29-Nov-2023 13:53:29 UTC] PHP Warning:  mysqli_errno() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/simpan_data.php on line 36
+[29-Nov-2023 13:53:29 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/simpan_data.php on line 36
+[29-Nov-2023 14:58:46 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/prokommy/public_html/mutia/view_data.php on line 49
+[29-Nov-2023 19:13:14 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/kalori_buah.php on line 74
+[29-Nov-2023 19:13:14 UTC] PHP Warning:  mysqli_errno() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/kalori_buah.php on line 77
+[29-Nov-2023 19:13:14 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/kalori_buah.php on line 77
+[29-Nov-2023 19:46:38 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/kalori_buah.php on line 74
+[29-Nov-2023 19:46:38 UTC] PHP Warning:  mysqli_errno() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/kalori_buah.php on line 77
+[29-Nov-2023 19:46:38 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/kalori_buah.php on line 77
+[30-Nov-2023 00:32:24 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/kalori_buah.php on line 74
+[30-Nov-2023 00:32:24 UTC] PHP Warning:  mysqli_errno() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/kalori_buah.php on line 77
+[30-Nov-2023 00:32:24 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/kalori_buah.php on line 77
+[30-Nov-2023 00:34:12 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/kalori_buah.php on line 74
+[30-Nov-2023 00:34:12 UTC] PHP Warning:  mysqli_errno() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/kalori_buah.php on line 77
+[30-Nov-2023 00:34:12 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/kalori_buah.php on line 77
+[30-Nov-2023 00:34:52 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/kalori_buah.php on line 74
+[30-Nov-2023 00:34:52 UTC] PHP Warning:  mysqli_errno() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/kalori_buah.php on line 77
+[30-Nov-2023 00:34:52 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/kalori_buah.php on line 77
+[30-Nov-2023 01:40:08 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/kalori_buah.php on line 74
+[30-Nov-2023 01:40:08 UTC] PHP Warning:  mysqli_errno() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/kalori_buah.php on line 77
+[30-Nov-2023 01:40:08 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/kalori_buah.php on line 77
+[30-Nov-2023 03:29:21 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/prokommy/public_html/mutia/view_data.php on line 49
+[30-Nov-2023 03:35:24 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/simpan_data.php on line 33
+[30-Nov-2023 03:35:24 UTC] PHP Warning:  mysqli_errno() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/simpan_data.php on line 36
+[30-Nov-2023 03:35:24 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/simpan_data.php on line 36
+[30-Nov-2023 03:35:40 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting end of file in /home/prokommy/public_html/mutia/simpan_edit.php on line 19
+[30-Nov-2023 03:36:20 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/kalori_buah.php on line 74
+[30-Nov-2023 03:36:20 UTC] PHP Warning:  mysqli_errno() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/kalori_buah.php on line 77
+[30-Nov-2023 03:36:20 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/kalori_buah.php on line 77
+[30-Nov-2023 03:36:28 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/kalori_buah.php on line 74
+[30-Nov-2023 03:36:28 UTC] PHP Warning:  mysqli_errno() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/kalori_buah.php on line 77
+[30-Nov-2023 03:36:28 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/kalori_buah.php on line 77
+[30-Nov-2023 03:37:01 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/simpan_data.php on line 33
+[30-Nov-2023 03:37:01 UTC] PHP Warning:  mysqli_errno() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/simpan_data.php on line 36
+[30-Nov-2023 03:37:02 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/simpan_data.php on line 36
+[30-Nov-2023 03:38:03 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/kalori_buah.php on line 74
+[30-Nov-2023 03:38:03 UTC] PHP Warning:  mysqli_errno() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/kalori_buah.php on line 77
+[30-Nov-2023 03:38:03 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/kalori_buah.php on line 77
+[30-Nov-2023 03:38:34 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/simpan_data.php on line 33
+[30-Nov-2023 03:38:34 UTC] PHP Warning:  mysqli_errno() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/simpan_data.php on line 36
+[30-Nov-2023 03:38:34 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/simpan_data.php on line 36
+[30-Nov-2023 03:40:49 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/kalori_buah.php on line 74
+[30-Nov-2023 03:40:49 UTC] PHP Warning:  mysqli_errno() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/kalori_buah.php on line 77
+[30-Nov-2023 03:40:49 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/kalori_buah.php on line 77
+[30-Nov-2023 04:02:23 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/index.php on line 77
+[30-Nov-2023 04:02:23 UTC] PHP Warning:  mysqli_errno() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/index.php on line 80
+[30-Nov-2023 04:02:23 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/index.php on line 80
+[30-Nov-2023 04:03:54 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/prokommy/public_html/mutia/view_data.php on line 49
+[30-Nov-2023 04:04:56 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/prokommy/public_html/mutia/view_data.php on line 52
+[30-Nov-2023 04:05:00 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/prokommy/public_html/mutia/view_data.php on line 52
+[30-Nov-2023 04:05:00 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/prokommy/public_html/mutia/view_data.php on line 52
+[30-Nov-2023 04:05:01 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/prokommy/public_html/mutia/view_data.php on line 52
+[30-Nov-2023 04:05:02 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/prokommy/public_html/mutia/view_data.php on line 52
+[30-Nov-2023 04:05:03 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/prokommy/public_html/mutia/view_data.php on line 52
+[30-Nov-2023 04:06:12 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/gizi_sayur.php on line 74
+[30-Nov-2023 04:06:12 UTC] PHP Warning:  mysqli_errno() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/gizi_sayur.php on line 77
+[30-Nov-2023 04:06:12 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/gizi_sayur.php on line 77
+[30-Nov-2023 04:06:28 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/prokommy/public_html/mutia/view_data.php on line 52
+[30-Nov-2023 04:08:22 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/simpan_data.php on line 33
+[30-Nov-2023 04:08:22 UTC] PHP Warning:  mysqli_errno() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/simpan_data.php on line 36
+[30-Nov-2023 04:08:22 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/simpan_data.php on line 36
+[30-Nov-2023 04:14:36 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting end of file in /home/prokommy/public_html/mutia/simpan_data.php on line 14
+[30-Nov-2023 04:15:26 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting end of file in /home/prokommy/public_html/mutia/simpan_data.php on line 14
+[30-Nov-2023 04:15:28 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting end of file in /home/prokommy/public_html/mutia/simpan_data.php on line 14
+[30-Nov-2023 04:38:07 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/gizi_sayur.php on line 74
+[30-Nov-2023 04:38:07 UTC] PHP Warning:  mysqli_errno() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/gizi_sayur.php on line 77
+[30-Nov-2023 04:38:07 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/gizi_sayur.php on line 77
+[30-Nov-2023 04:43:34 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/gizi_sayur.php on line 74
+[30-Nov-2023 04:43:34 UTC] PHP Warning:  mysqli_errno() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/gizi_sayur.php on line 77
+[30-Nov-2023 04:43:34 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/gizi_sayur.php on line 77
+[30-Nov-2023 04:44:30 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/gizi_sayur.php on line 74
+[30-Nov-2023 04:44:30 UTC] PHP Warning:  mysqli_errno() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/gizi_sayur.php on line 77
+[30-Nov-2023 04:44:30 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/gizi_sayur.php on line 77
+[30-Nov-2023 04:45:57 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting end of file in /home/prokommy/public_html/mutia/simpan_data.php on line 14
+[30-Nov-2023 04:48:44 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting end of file in /home/prokommy/public_html/mutia/simpan_data.php on line 14
+[30-Nov-2023 04:48:50 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/gizi_sayur.php on line 74
+[30-Nov-2023 04:48:50 UTC] PHP Warning:  mysqli_errno() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/gizi_sayur.php on line 77
+[30-Nov-2023 04:48:50 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/gizi_sayur.php on line 77
+[30-Nov-2023 04:53:21 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/gizi_sayur.php on line 74
+[30-Nov-2023 04:53:21 UTC] PHP Warning:  mysqli_errno() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/gizi_sayur.php on line 77
+[30-Nov-2023 04:53:21 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/gizi_sayur.php on line 77
+[30-Nov-2023 04:53:32 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/simpan_data.php on line 11
+[30-Nov-2023 04:53:32 UTC] PHP Warning:  mysqli_errno() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/simpan_data.php on line 14
+[30-Nov-2023 04:53:32 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/simpan_data.php on line 14
+[30-Nov-2023 04:55:35 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/simpan_data.php on line 11
+[30-Nov-2023 04:55:35 UTC] PHP Warning:  mysqli_errno() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/simpan_data.php on line 14
+[30-Nov-2023 04:55:35 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/simpan_data.php on line 14
+[30-Nov-2023 04:55:55 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/simpan_data.php on line 11
+[30-Nov-2023 04:55:55 UTC] PHP Warning:  mysqli_errno() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/simpan_data.php on line 14
+[30-Nov-2023 04:55:55 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/simpan_data.php on line 14
+[30-Nov-2023 04:56:59 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/simpan_data.php on line 11
+[30-Nov-2023 04:56:59 UTC] PHP Warning:  mysqli_errno() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/simpan_data.php on line 14
+[30-Nov-2023 04:56:59 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/simpan_data.php on line 14
+[30-Nov-2023 04:59:36 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/simpan_data.php on line 11
+[30-Nov-2023 04:59:36 UTC] PHP Warning:  mysqli_errno() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/simpan_data.php on line 14
+[30-Nov-2023 04:59:36 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/simpan_data.php on line 14
+[30-Nov-2023 04:59:40 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/simpan_data.php on line 11
+[30-Nov-2023 04:59:40 UTC] PHP Warning:  mysqli_errno() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/simpan_data.php on line 14
+[30-Nov-2023 04:59:40 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/simpan_data.php on line 14
+[30-Nov-2023 05:00:40 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/simpan_data.php on line 11
+[30-Nov-2023 05:00:40 UTC] PHP Warning:  mysqli_errno() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/simpan_data.php on line 14
+[30-Nov-2023 05:00:40 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/simpan_data.php on line 14
+[30-Nov-2023 05:03:56 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/gizi_sayur.php on line 74
+[30-Nov-2023 05:03:56 UTC] PHP Warning:  mysqli_errno() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/gizi_sayur.php on line 77
+[30-Nov-2023 05:03:56 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/gizi_sayur.php on line 77
+[30-Nov-2023 05:04:27 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/simpan_data.php on line 6
+[30-Nov-2023 05:04:27 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/simpan_data.php on line 7
+[30-Nov-2023 05:04:27 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/simpan_data.php on line 8
+[30-Nov-2023 05:04:27 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/simpan_data.php on line 9
+[30-Nov-2023 05:04:27 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/simpan_data.php on line 10
+[30-Nov-2023 05:04:27 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/simpan_data.php on line 15
+[30-Nov-2023 05:04:27 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/simpan_data.php on line 18
+[30-Nov-2023 05:11:17 UTC] PHP Notice:  Undefined variable: koneksi in /home/prokommy/public_html/mutia/simpan_data.php on line 8
+[30-Nov-2023 05:11:17 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/simpan_data.php on line 8
+[30-Nov-2023 05:11:17 UTC] PHP Notice:  Undefined variable: koneksi in /home/prokommy/public_html/mutia/simpan_data.php on line 9
+[30-Nov-2023 05:11:17 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/simpan_data.php on line 9
+[30-Nov-2023 05:11:17 UTC] PHP Notice:  Undefined variable: koneksi in /home/prokommy/public_html/mutia/simpan_data.php on line 10
+[30-Nov-2023 05:11:17 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/simpan_data.php on line 10
+[30-Nov-2023 05:11:17 UTC] PHP Notice:  Undefined variable: koneksi in /home/prokommy/public_html/mutia/simpan_data.php on line 11
+[30-Nov-2023 05:11:17 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/simpan_data.php on line 11
+[30-Nov-2023 05:11:17 UTC] PHP Notice:  Undefined variable: koneksi in /home/prokommy/public_html/mutia/simpan_data.php on line 12
+[30-Nov-2023 05:11:17 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/simpan_data.php on line 12
+[30-Nov-2023 05:15:13 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/simpan_data.php on line 11
+[30-Nov-2023 05:15:13 UTC] PHP Warning:  mysqli_errno() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/simpan_data.php on line 14
+[30-Nov-2023 05:15:13 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/simpan_data.php on line 14
+[30-Nov-2023 05:15:26 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/simpan_data.php on line 11
+[30-Nov-2023 05:15:26 UTC] PHP Warning:  mysqli_errno() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/simpan_data.php on line 14
+[30-Nov-2023 05:15:26 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/simpan_data.php on line 14
+[30-Nov-2023 05:17:21 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/simpan_data.php on line 14
+[30-Nov-2023 05:17:21 UTC] PHP Warning:  mysqli_errno() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/simpan_data.php on line 17
+[30-Nov-2023 05:17:21 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/simpan_data.php on line 17
+[30-Nov-2023 15:52:37 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/gizi_sayur.php on line 193
+[30-Nov-2023 15:52:37 UTC] PHP Warning:  mysqli_errno() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/gizi_sayur.php on line 196
+[30-Nov-2023 15:52:37 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/gizi_sayur.php on line 196
+[30-Nov-2023 15:55:28 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/gizi_sayur.php on line 193
+[30-Nov-2023 15:55:28 UTC] PHP Warning:  mysqli_errno() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/gizi_sayur.php on line 196
+[30-Nov-2023 15:55:28 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/gizi_sayur.php on line 196
+[30-Nov-2023 15:55:30 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/gizi_sayur.php on line 193
+[30-Nov-2023 15:55:30 UTC] PHP Warning:  mysqli_errno() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/gizi_sayur.php on line 196
+[30-Nov-2023 15:55:30 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/gizi_sayur.php on line 196
+[30-Nov-2023 15:55:32 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/gizi_sayur.php on line 193
+[30-Nov-2023 15:55:32 UTC] PHP Warning:  mysqli_errno() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/gizi_sayur.php on line 196
+[30-Nov-2023 15:55:32 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/gizi_sayur.php on line 196
+[30-Nov-2023 15:57:16 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/gizi_sayur.php on line 193
+[30-Nov-2023 15:57:16 UTC] PHP Warning:  mysqli_errno() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/gizi_sayur.php on line 196
+[30-Nov-2023 15:57:16 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/gizi_sayur.php on line 196
+[30-Nov-2023 15:58:25 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/gizi_sayur.php on line 193
+[30-Nov-2023 15:58:25 UTC] PHP Warning:  mysqli_errno() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/gizi_sayur.php on line 196
+[30-Nov-2023 15:58:25 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/gizi_sayur.php on line 196
+[30-Nov-2023 16:01:07 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/gizi_sayur.php on line 193
+[30-Nov-2023 16:01:07 UTC] PHP Warning:  mysqli_errno() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/gizi_sayur.php on line 196
+[30-Nov-2023 16:01:07 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/gizi_sayur.php on line 196
+[30-Nov-2023 16:01:15 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/gizi_sayur.php on line 193
+[30-Nov-2023 16:01:15 UTC] PHP Warning:  mysqli_errno() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/gizi_sayur.php on line 196
+[30-Nov-2023 16:01:15 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/gizi_sayur.php on line 196
+[30-Nov-2023 16:01:26 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/gizi_sayur.php on line 193
+[30-Nov-2023 16:01:26 UTC] PHP Warning:  mysqli_errno() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/gizi_sayur.php on line 196
+[30-Nov-2023 16:01:26 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/gizi_sayur.php on line 196
+[30-Nov-2023 16:05:49 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/gizi_sayur.php on line 193
+[30-Nov-2023 16:05:49 UTC] PHP Warning:  mysqli_errno() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/gizi_sayur.php on line 196
+[30-Nov-2023 16:05:49 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/gizi_sayur.php on line 196
+[30-Nov-2023 16:08:50 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/gizi_sayur.php on line 193
+[30-Nov-2023 16:08:50 UTC] PHP Warning:  mysqli_errno() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/gizi_sayur.php on line 196
+[30-Nov-2023 16:08:50 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/gizi_sayur.php on line 196
+[30-Nov-2023 16:08:56 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/gizi_sayur.php on line 193
+[30-Nov-2023 16:08:56 UTC] PHP Warning:  mysqli_errno() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/gizi_sayur.php on line 196
+[30-Nov-2023 16:08:56 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/gizi_sayur.php on line 196
+[30-Nov-2023 16:09:04 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/gizi_sayur.php on line 193
+[30-Nov-2023 16:09:04 UTC] PHP Warning:  mysqli_errno() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/gizi_sayur.php on line 196
+[30-Nov-2023 16:09:04 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/gizi_sayur.php on line 196
+[30-Nov-2023 16:09:16 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/gizi_sayur.php on line 193
+[30-Nov-2023 16:09:16 UTC] PHP Warning:  mysqli_errno() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/gizi_sayur.php on line 196
+[30-Nov-2023 16:09:16 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/gizi_sayur.php on line 196
+[30-Nov-2023 16:09:18 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/gizi_sayur.php on line 193
+[30-Nov-2023 16:09:18 UTC] PHP Warning:  mysqli_errno() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/gizi_sayur.php on line 196
+[30-Nov-2023 16:09:18 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/gizi_sayur.php on line 196
+[30-Nov-2023 16:19:39 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/gizi_sayur.php on line 193
+[30-Nov-2023 16:19:39 UTC] PHP Warning:  mysqli_errno() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/gizi_sayur.php on line 196
+[30-Nov-2023 16:19:39 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/gizi_sayur.php on line 196
+[30-Nov-2023 16:19:42 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/gizi_sayur.php on line 193
+[30-Nov-2023 16:19:42 UTC] PHP Warning:  mysqli_errno() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/gizi_sayur.php on line 196
+[30-Nov-2023 16:19:42 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/gizi_sayur.php on line 196
+[30-Nov-2023 16:19:58 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/gizi_sayur.php on line 193
+[30-Nov-2023 16:19:58 UTC] PHP Warning:  mysqli_errno() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/gizi_sayur.php on line 196
+[30-Nov-2023 16:19:58 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/gizi_sayur.php on line 196
+[30-Nov-2023 16:19:59 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/gizi_sayur.php on line 193
+[30-Nov-2023 16:19:59 UTC] PHP Warning:  mysqli_errno() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/gizi_sayur.php on line 196
+[30-Nov-2023 16:19:59 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/gizi_sayur.php on line 196
+[30-Nov-2023 16:20:00 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/gizi_sayur.php on line 193
+[30-Nov-2023 16:20:00 UTC] PHP Warning:  mysqli_errno() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/gizi_sayur.php on line 196
+[30-Nov-2023 16:20:00 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/gizi_sayur.php on line 196
+[30-Nov-2023 16:20:01 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/gizi_sayur.php on line 193
+[30-Nov-2023 16:20:01 UTC] PHP Warning:  mysqli_errno() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/gizi_sayur.php on line 196
+[30-Nov-2023 16:20:01 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/gizi_sayur.php on line 196
+[30-Nov-2023 16:20:02 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/gizi_sayur.php on line 193
+[30-Nov-2023 16:20:02 UTC] PHP Warning:  mysqli_errno() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/gizi_sayur.php on line 196
+[30-Nov-2023 16:20:02 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/gizi_sayur.php on line 196
+[30-Nov-2023 16:20:02 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/gizi_sayur.php on line 193
+[30-Nov-2023 16:20:02 UTC] PHP Warning:  mysqli_errno() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/gizi_sayur.php on line 196
+[30-Nov-2023 16:20:02 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/gizi_sayur.php on line 196
+[30-Nov-2023 16:20:03 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/gizi_sayur.php on line 193
+[30-Nov-2023 16:20:03 UTC] PHP Warning:  mysqli_errno() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/gizi_sayur.php on line 196
+[30-Nov-2023 16:20:03 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/gizi_sayur.php on line 196
+[30-Nov-2023 16:20:04 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/gizi_sayur.php on line 193
+[30-Nov-2023 16:20:04 UTC] PHP Warning:  mysqli_errno() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/gizi_sayur.php on line 196
+[30-Nov-2023 16:20:04 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/gizi_sayur.php on line 196
+[30-Nov-2023 16:20:05 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/gizi_sayur.php on line 193
+[30-Nov-2023 16:20:05 UTC] PHP Warning:  mysqli_errno() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/gizi_sayur.php on line 196
+[30-Nov-2023 16:20:05 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/gizi_sayur.php on line 196
+[30-Nov-2023 16:20:05 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/gizi_sayur.php on line 193
+[30-Nov-2023 16:20:05 UTC] PHP Warning:  mysqli_errno() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/gizi_sayur.php on line 196
+[30-Nov-2023 16:20:05 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/gizi_sayur.php on line 196
+[30-Nov-2023 16:20:06 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/gizi_sayur.php on line 193
+[30-Nov-2023 16:20:06 UTC] PHP Warning:  mysqli_errno() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/gizi_sayur.php on line 196
+[30-Nov-2023 16:20:06 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/gizi_sayur.php on line 196
+[30-Nov-2023 16:20:07 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/gizi_sayur.php on line 193
+[30-Nov-2023 16:20:07 UTC] PHP Warning:  mysqli_errno() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/gizi_sayur.php on line 196
+[30-Nov-2023 16:20:07 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/gizi_sayur.php on line 196
+[30-Nov-2023 16:20:07 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/gizi_sayur.php on line 193
+[30-Nov-2023 16:20:07 UTC] PHP Warning:  mysqli_errno() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/gizi_sayur.php on line 196
+[30-Nov-2023 16:20:07 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/gizi_sayur.php on line 196
+[30-Nov-2023 16:20:11 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/gizi_sayur.php on line 193
+[30-Nov-2023 16:20:11 UTC] PHP Warning:  mysqli_errno() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/gizi_sayur.php on line 196
+[30-Nov-2023 16:20:11 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/gizi_sayur.php on line 196
+[30-Nov-2023 16:20:15 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/gizi_sayur.php on line 193
+[30-Nov-2023 16:20:15 UTC] PHP Warning:  mysqli_errno() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/gizi_sayur.php on line 196
+[30-Nov-2023 16:20:15 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/gizi_sayur.php on line 196
+[30-Nov-2023 16:21:43 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/gizi_sayur.php on line 193
+[30-Nov-2023 16:21:43 UTC] PHP Warning:  mysqli_errno() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/gizi_sayur.php on line 196
+[30-Nov-2023 16:21:43 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/gizi_sayur.php on line 196
+[30-Nov-2023 16:21:44 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/gizi_sayur.php on line 193
+[30-Nov-2023 16:21:44 UTC] PHP Warning:  mysqli_errno() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/gizi_sayur.php on line 196
+[30-Nov-2023 16:21:44 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/gizi_sayur.php on line 196
+[30-Nov-2023 16:21:46 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/gizi_sayur.php on line 193
+[30-Nov-2023 16:21:46 UTC] PHP Warning:  mysqli_errno() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/gizi_sayur.php on line 196
+[30-Nov-2023 16:21:46 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/gizi_sayur.php on line 196
+[30-Nov-2023 16:29:49 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/gizi_sayur.php on line 193
+[30-Nov-2023 16:29:49 UTC] PHP Warning:  mysqli_errno() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/gizi_sayur.php on line 196
+[30-Nov-2023 16:29:49 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/gizi_sayur.php on line 196
+[30-Nov-2023 16:29:54 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/gizi_sayur.php on line 193
+[30-Nov-2023 16:29:54 UTC] PHP Warning:  mysqli_errno() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/gizi_sayur.php on line 196
+[30-Nov-2023 16:29:54 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/gizi_sayur.php on line 196
+[30-Nov-2023 16:30:02 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/gizi_sayur.php on line 193
+[30-Nov-2023 16:30:02 UTC] PHP Warning:  mysqli_errno() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/gizi_sayur.php on line 196
+[30-Nov-2023 16:30:02 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/gizi_sayur.php on line 196
+[30-Nov-2023 16:31:36 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/gizi_sayur.php on line 193
+[30-Nov-2023 16:31:36 UTC] PHP Warning:  mysqli_errno() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/gizi_sayur.php on line 196
+[30-Nov-2023 16:31:36 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/gizi_sayur.php on line 196
+[30-Nov-2023 16:31:37 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/gizi_sayur.php on line 193
+[30-Nov-2023 16:31:37 UTC] PHP Warning:  mysqli_errno() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/gizi_sayur.php on line 196
+[30-Nov-2023 16:31:37 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/gizi_sayur.php on line 196
+[30-Nov-2023 16:31:38 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/gizi_sayur.php on line 193
+[30-Nov-2023 16:31:38 UTC] PHP Warning:  mysqli_errno() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/gizi_sayur.php on line 196
+[30-Nov-2023 16:31:38 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/gizi_sayur.php on line 196
+[30-Nov-2023 16:31:42 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/gizi_sayur.php on line 193
+[30-Nov-2023 16:31:42 UTC] PHP Warning:  mysqli_errno() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/gizi_sayur.php on line 196
+[30-Nov-2023 16:31:42 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/gizi_sayur.php on line 196
+[30-Nov-2023 16:32:32 UTC] PHP Notice:  Undefined variable: koneksi in /home/prokommy/public_html/mutia/gizi_sayur.php on line 195
+[30-Nov-2023 16:32:32 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/gizi_sayur.php on line 195
+[30-Nov-2023 16:32:32 UTC] PHP Notice:  Undefined variable: koneksi in /home/prokommy/public_html/mutia/gizi_sayur.php on line 198
+[30-Nov-2023 16:32:32 UTC] PHP Warning:  mysqli_errno() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/gizi_sayur.php on line 198
+[30-Nov-2023 16:32:32 UTC] PHP Notice:  Undefined variable: koneksi in /home/prokommy/public_html/mutia/gizi_sayur.php on line 198
+[30-Nov-2023 16:32:32 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/gizi_sayur.php on line 198
+[07-Dec-2023 09:45:53 UTC] PHP Fatal error:  Cannot use Spipu\Html2Pdf\Html2Pdf as Html2Pdf because the name is already in use in /home/prokommy/public_html/mutia/download.php on line 6
+[07-Dec-2023 09:47:15 UTC] PHP Fatal error:  Cannot use Spipu\Html2Pdf\Html2Pdf as Html2Pdf because the name is already in use in /home/prokommy/public_html/mutia/download.php on line 6
+[07-Dec-2023 12:35:24 UTC] PHP Fatal error:  Cannot use Spipu\Html2Pdf\Html2Pdf as Html2Pdf because the name is already in use in /home/prokommy/public_html/mutia/download.php on line 6
+[07-Dec-2023 12:35:36 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/view_data.php on line 37
+[07-Dec-2023 12:35:36 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/prokommy/public_html/mutia/view_data.php on line 52
+[09-Dec-2023 09:07:24 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Undefined font: trebuchet ms B in /home/prokommy/public_html/mutia/fpdf186/fpdf.php:267
+Stack trace:
+#0 /home/prokommy/public_html/mutia/fpdf186/fpdf.php(513): FPDF->Error('Undefined font:...')
+#1 /home/prokommy/public_html/mutia/data_gizi_sayur.php(9): FPDF->SetFont('trebuchet ms', 'B', 16)
+#2 {main}
+  thrown in /home/prokommy/public_html/mutia/fpdf186/fpdf.php on line 267
+[09-Dec-2023 09:07:31 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Undefined font: trebuchet ms B in /home/prokommy/public_html/mutia/fpdf186/fpdf.php:267
+Stack trace:
+#0 /home/prokommy/public_html/mutia/fpdf186/fpdf.php(513): FPDF->Error('Undefined font:...')
+#1 /home/prokommy/public_html/mutia/data_gizi_sayur.php(9): FPDF->SetFont('trebuchet ms', 'B', 16)
+#2 {main}
+  thrown in /home/prokommy/public_html/mutia/fpdf186/fpdf.php on line 267
+[09-Dec-2023 12:35:07 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Undefined font: helveticab B in /home/prokommy/public_html/mutia/fpdf186/fpdf.php:267
+Stack trace:
+#0 /home/prokommy/public_html/mutia/fpdf186/fpdf.php(513): FPDF->Error('Undefined font:...')
+#1 /home/prokommy/public_html/mutia/data_gizi_sayur.php(9): FPDF->SetFont('helveticab', 'B', 16)
+#2 {main}
+  thrown in /home/prokommy/public_html/mutia/fpdf186/fpdf.php on line 267
+[09-Dec-2023 12:35:11 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Undefined font: helveticab B in /home/prokommy/public_html/mutia/fpdf186/fpdf.php:267
+Stack trace:
+#0 /home/prokommy/public_html/mutia/fpdf186/fpdf.php(513): FPDF->Error('Undefined font:...')
+#1 /home/prokommy/public_html/mutia/data_gizi_sayur.php(9): FPDF->SetFont('helveticab', 'B', 16)
+#2 {main}
+  thrown in /home/prokommy/public_html/mutia/fpdf186/fpdf.php on line 267
+[09-Dec-2023 12:35:17 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Undefined font: helveticab B in /home/prokommy/public_html/mutia/fpdf186/fpdf.php:267
+Stack trace:
+#0 /home/prokommy/public_html/mutia/fpdf186/fpdf.php(513): FPDF->Error('Undefined font:...')
+#1 /home/prokommy/public_html/mutia/data_gizi_sayur.php(9): FPDF->SetFont('helveticab', 'B', 16)
+#2 {main}
+  thrown in /home/prokommy/public_html/mutia/fpdf186/fpdf.php on line 267
+[09-Dec-2023 12:38:42 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Undefined font: helveticab B in /home/prokommy/public_html/mutia/fpdf186/fpdf.php:267
+Stack trace:
+#0 /home/prokommy/public_html/mutia/fpdf186/fpdf.php(513): FPDF->Error('Undefined font:...')
+#1 /home/prokommy/public_html/mutia/data_gizi_sayur.php(9): FPDF->SetFont('helveticab', 'B', 16)
+#2 {main}
+  thrown in /home/prokommy/public_html/mutia/fpdf186/fpdf.php on line 267
+[09-Dec-2023 15:40:55 UTC] PHP Warning:  require(fpdf16/fpdf.php): failed to open stream: No such file or directory in /home/prokommy/public_html/mutia/data_gizi_sayur.php on line 3
+[09-Dec-2023 15:40:55 UTC] PHP Warning:  require(fpdf16/fpdf.php): failed to open stream: No such file or directory in /home/prokommy/public_html/mutia/data_gizi_sayur.php on line 3
+[09-Dec-2023 15:40:55 UTC] PHP Fatal error:  require(): Failed opening required 'fpdf16/fpdf.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/prokommy/public_html/mutia/data_gizi_sayur.php on line 3
+[09-Dec-2023 15:42:13 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; FPDF has a deprecated constructor in /home/prokommy/public_html/mutia/fpdf16/fpdf.php on line 12
+[09-Dec-2023 15:42:13 UTC] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/prokommy/public_html/mutia/fpdf16/fpdf.php on line 1073
+[09-Dec-2023 15:42:13 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/prokommy/public_html/mutia/fpdf16/fpdf.php on line 1565
+[09-Dec-2023 15:42:47 UTC] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/prokommy/public_html/mutia/fpdf16/fpdf.php on line 1073
+[09-Dec-2023 15:42:47 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/prokommy/public_html/mutia/fpdf16/fpdf.php on line 1565
+[09-Dec-2023 15:52:06 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; FPDF has a deprecated constructor in /home/prokommy/public_html/mutia/fpdf16/fpdf.php on line 12
+[09-Dec-2023 15:52:06 UTC] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/prokommy/public_html/mutia/fpdf16/fpdf.php on line 1073
+[09-Dec-2023 15:52:06 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/prokommy/public_html/mutia/fpdf16/fpdf.php on line 1565
+[09-Dec-2023 15:57:44 UTC] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/prokommy/public_html/mutia/fpdf18/fpdf.php on line 1031
+[09-Dec-2023 15:58:32 UTC] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/prokommy/public_html/mutia/fpdf18/fpdf.php on line 1031
+[09-Dec-2023 16:02:13 UTC] PHP Warning:  require(fpdf18/fpdf.php): failed to open stream: No such file or directory in /home/prokommy/public_html/mutia/data_gizi_sayur.php on line 3
+[09-Dec-2023 16:02:13 UTC] PHP Warning:  require(fpdf18/fpdf.php): failed to open stream: No such file or directory in /home/prokommy/public_html/mutia/data_gizi_sayur.php on line 3
+[09-Dec-2023 16:02:13 UTC] PHP Fatal error:  require(): Failed opening required 'fpdf18/fpdf.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/prokommy/public_html/mutia/data_gizi_sayur.php on line 3
+[10-Dec-2023 12:18:41 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/view_data.php on line 37
+[10-Dec-2023 12:18:41 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/prokommy/public_html/mutia/view_data.php on line 52
+[11-Dec-2023 16:24:16 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/view_data.php on line 37
+[11-Dec-2023 16:24:16 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/prokommy/public_html/mutia/view_data.php on line 52
+[13-Dec-2023 10:17:16 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/view_data.php on line 37
+[13-Dec-2023 10:17:16 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/prokommy/public_html/mutia/view_data.php on line 52
+[13-Dec-2023 16:07:38 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/view_data.php on line 37
+[13-Dec-2023 16:07:38 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/prokommy/public_html/mutia/view_data.php on line 52
+[13-Dec-2023 16:40:54 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/view_data.php on line 37
+[13-Dec-2023 16:40:54 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/prokommy/public_html/mutia/view_data.php on line 52
+[14-Dec-2023 12:12:52 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/prokommy/public_html/mutia/view_data.php on line 37
+[14-Dec-2023 12:12:52 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/prokommy/public_html/mutia/view_data.php on line 52
+[18-Dec-2023 09:35:48 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/prokommy/public_html/mutia/koneksi.php on line 6
