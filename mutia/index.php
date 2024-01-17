@@ -8,7 +8,7 @@ include('koneksi.php');
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>DATA GIZI DALAM SAYURANN</title>
+    <title>DATA GIZI DALAM SAYURAN</title>
     <link rel="icon" href="gambar/icon.png" type="image/x-icon">
     <style>
         * {
